@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\itiri\OneDrive\デスクトップ\C++\Kakunin\Kakunin\main.cpp(230,1): warning C4326: 'main' の戻り値の型には、'int' を使用してください。'void' は使用できません
+  Kakunin.vcxproj -> C:\Users\itiri\OneDrive\デスクトップ\C++\Kakunin\Debug\Kakunin.exe
